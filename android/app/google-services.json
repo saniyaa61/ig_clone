@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250987583084",
+    "project_id": "ig-clone-prod",
+    "storage_bucket": "ig-clone-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250987583084:android:766b5defed72406545aa49",
+        "android_client_info": {
+          "package_name": "me.memorialane.ig_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250987583084-uk8or0hq7ur48afgetf6bl6t36mbfpkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSYYdX7HohKi01Ow4dqOJjE5vWLXgoFzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250987583084-uk8or0hq7ur48afgetf6bl6t36mbfpkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
